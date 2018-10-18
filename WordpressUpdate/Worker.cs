@@ -1,6 +1,5 @@
 ﻿/* @(#) Worker.cs
  * @Author: Erwin Evans
- * @Purpose: Does shit
  * 
  * Version 1.0.0
  * 
