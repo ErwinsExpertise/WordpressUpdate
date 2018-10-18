@@ -108,10 +108,10 @@ namespace WordpressUpdate
                     string authCookie = 
                         username 
                         + "%" + "7C1535826289"
-                        + "%" + "7CpQklNdk9qBRyjhRTG3bnqdWCEu7hPswbQ6R08Frd8eJ"
-                        + "%" + "7C52f23d03231e8e00a49bc3cae3e1e3de890dd0d0a4f0f604903f2c4643148fdd";
+                        + "%" + "7CpQkjhsdflaSDFw4fsdgasGDsa45435egfFTert"
+                        + "%" + "734DSe5tsGSdfg35hj34l5j3fsdfsdfsdr2324234dgsdfgsd";
 
-                    cookieContainer.Add(new Cookie("wordpress_logged_in_13cb682def895f3edb449b7722133fe5", authCookie) { Domain = baseAddress.Host } );
+                    cookieContainer.Add(new Cookie("wordpress_logged_in_13bvs887g65sd8796f57722345fe5", authCookie) { Domain = baseAddress.Host } );
                     
                     ////////////////////////////
 
